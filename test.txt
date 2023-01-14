@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is modified by sandeep kumar
+=======
+hello i am sandeep 
+>>>>>>> bcefe2b7334fd2ed3b52f9c585bb39ba8e3a7a28
